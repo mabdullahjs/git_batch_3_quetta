@@ -1,0 +1,13 @@
+1- Git download krna haa
+2- github pa account banana haa (email & password & username)
+3- crediental manager pa jaka windows crediental sa git ko delete krna ha (ya tab hoga jab pehla sa kisi na git ko connect kiya hua ha)
+4- git bash open krka 2 commands likhni hain
+  => git config --global user.name "your_github_username"
+  => git config --global user.email "your_github_email"
+5- github account ma aik repo banaye or us repo ko clone krdia computer pa.
+6- 
+
+
+add 
+commit
+push
